@@ -2,7 +2,7 @@
 
 💻 Étudiant Développeur Fullstack • CODA Orléans
 
-A ce jours je cherche à développer les compétences techniques comme relationnelle que j'ai pu acquérir chez coda, à travers divers projets.
+🧠 A ce jours je cherche à développer les compétences techniques comme relationnelle que j'ai pu acquérir chez coda, à travers divers projets.
 J'aime la création de sites et d'applications web à travers des projets en groupe. 
 
 📚 Pour moi le travail d'un développeur ne se résume pas à un ordinateur et lui-même. Le travail en équipe est primordial pour un développeur car il permet d'apprendre d'une manière différente, mais aussi d'avoir un regard extérieur sur le travil que l'on réalise.
