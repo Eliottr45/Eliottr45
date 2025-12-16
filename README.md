@@ -42,9 +42,3 @@
 
 </div>
 
-<!-- Stats -->
-<h2 align="center" style="color:#38bdf8;">📊 Mes statistiques GitHub</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliottr45&layout=compact&theme=tokyonight" height="165">
-</div>
